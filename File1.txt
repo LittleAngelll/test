@@ -1,6 +1,5 @@
 testing line
 untesting line
-000
 commit test
 456
 789.
